@@ -24,7 +24,7 @@ go build -o filetools
 $ filetools
 
 filetools is a command line tool which build for increasing team productivity.
-Build by @cxf.
+Build by @leaf.
 
 Usage:
   filetools [command]
