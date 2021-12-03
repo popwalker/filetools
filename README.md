@@ -4,6 +4,8 @@ filetools is a command line tool which build for increasing daily work productiv
 
 The idea to build this tool came from my daily work, for details please see my article [Process PDF with Golang](https://www.reddit.com/r/golang/comments/eihcts/process_pdf_with_golang/)
 
+![Alt](https://repobeats.axiom.co/api/embed/9baca42dff46729c6a002a4ed2f904ce63ea667e.svg "Repobeats analytics image")
+
 ### Support:
 - generate pdf from URL
 - detect information from pdf
